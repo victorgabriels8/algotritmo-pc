@@ -1,5 +1,5 @@
-#Algoritmo e pensamento Computacional
+# Algoritmo e pensamento Computacional
 
 
 
-Aula 02 - introdução da linguagem C
+## Aula 02 - introdução da linguagem C
